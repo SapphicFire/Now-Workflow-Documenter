@@ -5,6 +5,7 @@
 - References Workflow for details
 - References Starting Activity (first `wf_activity`)
 - References Full sequences (list of `wf_activity` paths, separated by `|`)
+  - While this seems useful, it is not consistently declared in instances I have access to. Falling back to enumeration from starting activity
 ##### Workflow Activity `wf_activity`:
 - Instantiated
 - References workflow version
